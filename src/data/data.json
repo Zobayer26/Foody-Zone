@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"Boiled Eggs",
+        "price":10.00,
+        "img":"/egg.png"
+    },
+    {
+        "id":2,
+        "name":"RAMEN",
+        "price":25,
+        "img":"/ramen.png"
+    },
+    {
+        "id":3,
+        "name":"GRILLED CHICKEN",
+        "price":45.00,
+        "img":"/chicken.png"
+    },
+    {
+        "id":4,
+        "name":"CAKE",
+        "price":18.00,
+        "img":"/cake.png"
+    },
+    {
+        "id":5,
+        "name":"BURGER",
+        "price":23.00,
+        "img":"/burger.png"
+    },
+    {
+        "id":6,
+        "name":"PANCAKE",
+        "price":10.99,
+        "img":"/pancake.png"
+    }
+]
